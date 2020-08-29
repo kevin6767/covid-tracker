@@ -1,10 +1,13 @@
-import React from 'react'
+import React from "react";
+import useCards from "../../services/Cards.services";
+
+export default function Cards() {
+    const confirmed = useCards()
 
 
-const Cards = () => {
     return (
-        <h1>Cards</h1>
-    )
-}
-
-export default Cards
+        <div>
+            {confirmed}
+        </div>
+    );
+};
