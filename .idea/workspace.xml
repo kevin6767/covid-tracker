@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1513ee99-1a5c-429a-85d8-574c696df94f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Cards/Cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cards/Cards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Charts/Charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Charts/Charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/fetchData.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Cards.services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +80,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598665113271</updated>
-      <workItem from="1598665115110" duration="13230000" />
+      <workItem from="1598665115110" duration="14716000" />
     </task>
+    <task id="LOCAL-00001" summary="refactoring">
+      <created>1598717821695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598717821695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598665896463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598665896463" />
+    <state x="1063" y="37" key="CommitChangelistDialog2" timestamp="1598717821028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1063" y="37" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598717821028" />
   </component>
 </project>
